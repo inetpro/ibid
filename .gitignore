@@ -6,3 +6,6 @@
 /local.ini
 /logs/
 dropin.cache
+Ibid.egg-info/
+build/
+dist/
